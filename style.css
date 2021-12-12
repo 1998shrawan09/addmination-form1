@@ -5,9 +5,7 @@ div{
     margin-top: 70px;
     height: 850px;
     border-radius: 15px;
-    
 }
-
 h1{
     text-align: center;
     border-radius: 10px;
@@ -23,7 +21,6 @@ input{
     width: 300px;
     border-radius: 10px;
     text-align: center;
-    
 }
 select{
     height: 32px;
@@ -49,7 +46,6 @@ hr{
 }
 textarea{
     padding: 45px;
-
 }
 button{
    background-color:burlywood ;
